@@ -1,0 +1,11 @@
+{
+  "name": "1-commit",
+  "version": "1.0.0",
+  "description": "chuong trinh day ve GIT\r // git init\r // git status\r //git add\r // git commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
